@@ -6,7 +6,7 @@
 .idea/
 .DS_Store
 
-# Local photos / media
-*.jpg
-*.jpeg
-*.png
+# Original full-size photos in the project root (use docs/images instead)
+/*.jpg
+/*.jpeg
+/*.png

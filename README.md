@@ -2,6 +2,10 @@
 
 A 16 × 8 NeoPixel matrix driven by a Lolin/WEMOS S2 Mini, with WLED-style effects, a clock overlay, a web UI, and WiFi setup via captive portal.
 
+| Clock overlay | Background effect |
+| --- | --- |
+| ![Clock overlay](docs/images/clock.jpg) | ![Background effect](docs/images/effect.jpg) |
+
 ## Hardware
 
 - Lolin / WEMOS S2 Mini (`lolin_s2_mini`)
