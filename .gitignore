@@ -1,0 +1,12 @@
+# PlatformIO build output
+.pio/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local photos / media
+*.jpg
+*.jpeg
+*.png
